@@ -5,7 +5,7 @@ Material de apoio para a aula de Git e GitHub da disciplina Programação para W
 Material de apoio da disciplina **Programação para Web** do **Colégio Politécnico da Universidade Federal de Santa Maria**, para a turma do **2º semestre do Técnico em Informática para Internet**.
 
 **Professora:** Rossana Freitas Moreira  
-**Carga horária:** 4 horas  
+**Carga horária:** 2 horas  
 **Semestre/Ano:** 02/2026
 
 ## Objetivo da aula
